@@ -37,7 +37,7 @@ Publications
 </div>
 <br/>
 <div style="display: flex; align-items: center;">
-    <img src='/images/pc.png' alt='ECCV 2024' class="publication-image">
+    <img src='/images/syn2real.png' alt='ECCV 2024' class="publication-image">
 
     <!-- Text Content -->
     <div class="publication-info">
@@ -142,25 +142,18 @@ Publications
 
 Selected Honors and Awards
 ======
-- Reviewer of Top-tier Conferences / CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI 
+- 2017/ KAIST Dean's List
 <br/>
-- Reviewer of Top-tier Journals / TPAMI, IJCV, CVIU
-<br/>
-- 2023 / Bronze prize in Samsung HumanTech Paper Awards 2023
-<br/>
-- 2023 / Bronze prize in Best Paper Awards during IPIU 2023, 35th Workshop on Image Processing and Image Understanding
-<br/>
-- 2022 / Gold prize in Best Paper Awards during IPIU 2022, 34th Workshop on Image Processing and Image Understanding
-<br/>
-- 2021 / Winning CVPRW 2021 DSEC challenge (event-only track)
-<br/>
+
+
 
 Projects
 ======
-- 2020 ~ present / Unmanned Swarm CPS Research Laboratory Program of Defense Acquisition Program / drone imaging, image stitching, 3D reconstruction, and point cloud semantic segmentation
+- 2021 ~ 2022 / Autonomous ship collision and accident prevention situation awareness systemm / object detection, object tracking, and data labeling 
 <br/>
-- 2021 ~ 2023 / AI Research for Intelligent X-ray Luggage Scanning System / X-ray imaging, object detection, weakly supervised object localization
+- 2023 ~ 2024 / Surround view depth estimation for autonomous vehicle systems / depth estimation, self-supervised learning, and surround view reconstruction
 <br/>
-- 2021 ~ 2022 / Development of Situational Awareness System to Prevent Collisions and Accidents for Autonomous Ships / semantic segmentation, small object detection
+- 2024 ~ present/ Unmanned Swarm CPS Research Laboratory Program of Defense Acquisition Program / drone imaging, image stitching, 3D reconstruction, and point cloud semantic segmentation
 <br/>
+
 
