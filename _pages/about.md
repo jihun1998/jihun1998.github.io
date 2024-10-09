@@ -142,7 +142,7 @@ Publications
 
 Selected Honors and Awards
 ======
-- 2017/ KAIST Dean's List
+- 2017 / KAIST Dean's List
 <br/>
 
 
