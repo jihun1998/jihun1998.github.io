@@ -21,7 +21,7 @@ repository               : "jihun1998/jihun1998.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot_2.JPG"
+  avatar           : "headshot_2.jpg"
   name             : "Jihun Kim"
   pronouns         : # example: "she/her"  
   bio              : "PhD student @ KAIST \n jihun1998@kaist.ac.kr"
