@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hyeokjun Kweon"
+title                    : "Jihun Kim"
 title_separator          : "-"
-name                     : &name "Hyeokjun Kweon"
+name                     : &name "Jihun Kim"
 description              : &description "personal description"
-url                      : https://sangrockeg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jihun1998.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sangrockeg/sangrockeg.github.io"
+repository               : "jihun1998/jihun1998.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,17 +22,17 @@ repository               : "sangrockeg/sangrockeg.github.io"
 author:
   # Biographic information
   avatar           : "headshot_2.JPG"
-  name             : "Hyeokjun Kweon"
+  name             : "Jihun Kim"
   pronouns         : # example: "she/her"  
-  bio              : "5th year PhD candidate @ KAIST \n 0327june@kaist.ac.kr"
+  bio              : "PhD student @ KAIST \n jihun1998@kaist.ac.kr"
   location         : "Daejeon, South Korea"
   employer         : "KAIST"
   uri              : # URL
-  email            : "0327june@kaist.ac.kr"
+  email            : "jihun1998@kaist.ac.kr"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=em3aymgAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=8UVicysAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : 
   pubmed           : 
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # CV 
-  # cv               : "https://sangrockeg.github.io/assets/hyeokjun_kweon_cv_240613.pdf"
+  # cv               : ""
 
   # Social media
   bluesky          : 
