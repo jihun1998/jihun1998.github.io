@@ -16,7 +16,7 @@ I have tackled a range of tasks such as semantic segmentation, data completion, 
 My expertise spans various data modalities, including images, and point cloud (LiDAR).
 <br/>
 
-
+My CV can be found in here
 <br/>
 
 
