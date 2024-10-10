@@ -43,7 +43,7 @@ Publications
     <div class="publication-info">
         Syn-to-Real Domain Adaptation for Point Cloud Completion via Part-based Approach<br>
         Y. Yang*, <b>J. Kim*</b>, K. Yoon<br>
-        <b>ICCV 2023</b><br>
+        <b>ECCV 2024</b><br>
         <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06768.pdf">[paper]</a> 
     </div>
 </div>
