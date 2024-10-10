@@ -149,7 +149,7 @@ Selected Honors and Awards
 
 Projects
 ======
-- 2021 ~ 2022 / Autonomous ship collision and accident prevention situation awareness systemm / object detection, object tracking, and data labeling 
+- 2021 ~ 2022 / Autonomous ship collision and accident prevention situation awareness system / object detection, object tracking, and data labeling 
 <br/>
 - 2023 ~ 2024 / Surround view depth estimation for autonomous vehicle systems / depth estimation, self-supervised learning, and surround view reconstruction
 <br/>
