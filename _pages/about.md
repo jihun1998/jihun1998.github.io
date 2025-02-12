@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student advised by Prof. [Kuk-Jin Yoon](https://scholar.google.co.kr/citations?user=1NvBj_gAAAAJ&hl=en) at [Visual Intelligence Lab (VILab)](https://vi.kaist.ac.kr/), Korea Advanced Institute of Science and Technology (KAIST). 
+I am a Ph.D. candidate student advised by Prof. [Kuk-Jin Yoon](https://scholar.google.co.kr/citations?user=1NvBj_gAAAAJ&hl=en) at [Visual Intelligence Lab (VILab)](https://vi.kaist.ac.kr/), Korea Advanced Institute of Science and Technology (KAIST). 
 I am actively seeking a research intern position.
 <br/>
 
