@@ -32,7 +32,7 @@ Publications
         Multi-View 3D Scene Abstraction from Drone-Captured RGB Images<br>
         W. Jeong*, <b>J. Kim*</b>, H. Kweon*, K. Yoon<br>
         <b>IEEE Access</b><br>
-        <a href="TBD">[paper]</a>
+        <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10872931">[paper]</a>
     </div>
 </div>
 <br/>
@@ -44,7 +44,7 @@ Publications
         TALoS: Enhancing Semantic Scene Completion via Test-time Adaptation on the Line of Sight<br>
         H. Jang*, <b>J. Kim*</b>, H. Kweon*, K. Yoon<br>
         <b>NeurIPS 2024</b><br>
-        <a href="TBD">[paper]</a>
+        <a href="https://openreview.net/forum?id=gZWYdJ3c26&referrer=%5Bthe%20profile%20of%20Kuk-Jin%20Yoon%5D(%2Fprofile%3Fid%3D~Kuk-Jin_Yoon1)">[paper]</a>
     </div>
 </div>
 <br/>
