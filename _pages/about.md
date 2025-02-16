@@ -25,6 +25,18 @@ My CV can be found in [here](https://jihun1998.github.io/assets/JihunKim_CV_2024
 Publications
 ======
 <div style="display: flex; align-items: center;">
+    <img src='/images/MultiViewDroneAbstraction.png' alt='IEEE Access' class="publication-image">
+
+    <!-- Text Content -->
+    <div class="publication-info">
+        Multi-View 3D Scene Abstraction from Drone-Captured RGB Images<br>
+        W. Jeong*, <b>J. Kim*</b>, H. Kweon*, K. Yoon<br>
+        <b>IEEE Access</b><br>
+        <a href="TBD">[paper]</a>
+    </div>
+</div>
+<br/>
+<div style="display: flex; align-items: center;">
     <img src='/images/qual_kitti.png' alt='NeurIPS 2024' class="publication-image">
 
     <!-- Text Content -->
