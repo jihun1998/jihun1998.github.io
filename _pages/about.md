@@ -25,7 +25,7 @@ My CV can be found in [here](https://jihun1998.github.io/assets/JihunKim_CV_2024
 Publications
 ======
 <div style="display: flex; align-items: center;">
-    <img src='/images/DCTTA_main.PNG' alt='ICCV 2025' class="publication-image">
+    <img src='/images/DCTTA_qual.PNG' alt='ICCV 2025' class="publication-image">
 
     <!-- Text Content -->
     <div class="publication-info">
