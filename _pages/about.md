@@ -30,7 +30,7 @@ Publications
     <!-- Text Content -->
     <div class="publication-info">
         DC-TTA: Divide-and-Conquer Framework for Test-Time Adaptation of Interactive Segmentation<br>
-        <b>J. Kim*</b>,H. Kwon*, H. Kweon*, W. Jeong, K. Yoon<br>
+        <b>J. Kim*</b>, H. Kwon*, H. Kweon*, W. Jeong, K. Yoon<br>
         <b>ICCV 2025</b><br>
         <a href="http://arxiv.org/abs/2506.23104">[paper]</a>
     </div>
