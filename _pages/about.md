@@ -25,6 +25,18 @@ My CV can be found in [here](https://jihun1998.github.io/assets/JihunKim_CV_2024
 Publications
 ======
 <div style="display: flex; align-items: center;">
+    <img src='/images/DCTTA.png' alt='ICCV 2025' class="publication-image">
+
+    <!-- Text Content -->
+    <div class="publication-info">
+        DC-TTA: Divide-and-Conquer Framework for Test-Time Adaptation of Interactive Segmentation<br>
+        <b>J. Kim*</b>,H. Kwon*, H. Kweon*, W. Jeong, K. Yoon<br>
+        <b>ICCV 2025</b><br>
+        <a href="http://arxiv.org/abs/2506.23104">[paper]</a>
+    </div>
+</div>
+<br/>
+<div style="display: flex; align-items: center;">
     <img src='/images/MultiViewDroneAbstraction.png' alt='IEEE Access' class="publication-image">
 
     <!-- Text Content -->
@@ -155,6 +167,7 @@ Publications
 Selected Honors and Awards
 ======
 - 2017 / KAIST Dean's List
+- 2021 / KAIST magna cum laude
 <br/>
 
 
@@ -165,7 +178,8 @@ Projects
 <br/>
 - 2023 ~ 2024 / Surround view depth estimation for autonomous vehicle systems / depth estimation, self-supervised learning, and surround view reconstruction
 <br/>
-- 2024 ~ present/ Unmanned Swarm CPS Research Laboratory Program of Defense Acquisition Program / drone imaging, image stitching, 3D reconstruction, and point cloud semantic segmentation
+- 2024 ~ 2025/ Unmanned Swarm CPS Research Laboratory Program of Defense Acquisition Program / drone imaging, image stitching, 3D reconstruction, and point cloud semantic segmentation
 <br/>
+- 2025 ~ present/ Development of Automated Particle Analysis Technology Using SEM Images of Cathode Materials / instance segmentation, segment anything model, and small object detection
 
 
