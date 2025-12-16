@@ -168,6 +168,7 @@ Selected Honors and Awards
 ======
 - 2017 / KAIST Dean's List
 - 2021 / KAIST magna cum laude
+- 2025 / KAIST Visual Intelligence Lab Student Leader
 <br/>
 
 
@@ -180,6 +181,5 @@ Projects
 <br/>
 - 2024 ~ 2025/ Unmanned Swarm CPS Research Laboratory Program of Defense Acquisition Program / drone imaging, image stitching, 3D reconstruction, and point cloud semantic segmentation
 <br/>
-- 2025 ~ present/ Development of Automated Particle Analysis Technology Using SEM Images of Cathode Materials / instance segmentation, segment anything model, and small object detection
-
+- 2025 ~ 2025/ Development of Automated Particle Analysis Technology Using SEM Images of Cathode Materials / instance segmentation, segment anything model, and small object detection
 
