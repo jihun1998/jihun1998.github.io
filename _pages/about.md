@@ -25,6 +25,18 @@ My CV can be found in [here](https://jihun1998.github.io/assets/Academic_Curricu
 Publications
 ======
 <div style="display: flex; align-items: center;">
+    <img src='/images/DiTTA_Concept.png' alt='CVPR 2026' class="publication-image">
+
+    <!-- Text Content -->
+    <div class="publication-info">
+        Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation<br>
+        <b>J. Kim*</b>, H. Kwon*, H. Kweon*, K. Yoon<br>
+        <b>CVPR 2026</b><br>
+        <a href="https://arxiv.org/pdf/2604.10950">[paper]</a>
+    </div>
+</div>
+<br/>
+<div style="display: flex; align-items: center;">
     <img src='/images/DCTTA_qual.PNG' alt='ICCV 2025' class="publication-image">
 
     <!-- Text Content -->
