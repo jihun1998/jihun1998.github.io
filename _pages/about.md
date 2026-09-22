@@ -193,6 +193,8 @@ Selected Honors and Awards
 - 2017 / KAIST Dean's List
 - 2021 / KAIST magna cum laude
 - 2025 / KAIST Visual Intelligence Lab Student Leader
+- 2026 / Global AI Research Leap Outstanding Research
+- 2026 / ECCV 2026 Outstanding Reviewer
 <br/>
 
 
