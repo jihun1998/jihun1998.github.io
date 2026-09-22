@@ -25,6 +25,18 @@ My CV can be found in [here](https://jihun1998.github.io/assets/Academic_Curricu
 Publications
 ======
 <div style="display: flex; align-items: center;">
+    <img src='/images/DOALL_Concept.png' alt='CVPR 2026' class="publication-image">
+
+    <!-- Text Content -->
+    <div class="publication-info">
+        Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation<br>
+        H. Jang*, <b>J. Kim*</b>, H. Kweon*, K. Yoon<br>
+        <b>ECCV 2026</b><br>
+        <a href="https://arxiv.org/abs/2606.20196">[paper]</a>
+    </div>
+</div>
+<br/>
+<div style="display: flex; align-items: center;">
     <img src='/images/DiTTA_Concept.png' alt='CVPR 2026' class="publication-image">
 
     <!-- Text Content -->
